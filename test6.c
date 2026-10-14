@@ -16,5 +16,6 @@ int main(){
     int c=8;
     int d=xx(a)+xx(b)+xx(c);
     printf("%d",d);
+    printf("你好");
     
 }
